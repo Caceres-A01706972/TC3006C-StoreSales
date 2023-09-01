@@ -3,7 +3,7 @@
 ## Integrantes:
 - Rodrigo Muñoz Guerrero A00572828
 - Ricardo Cáceres Villibord A01706972
-- Josemaria Robledo Lara A01612376
+- Josemaría Robledo Lara A01612376
 
 ## Contexto
 Este repositorio contiene la solución y entregas para el reto de la materia TC3006C (Inteligencia Artificial Avanzada para la Ciencia de Datos).
