@@ -15,4 +15,4 @@ Dicho dataset descargado de la competencia respectiva en [Kaggle](https://www.ka
 ## Contenido
 El análisis del reto se encuentra en [este documento](https://docs.google.com/document/d/1KCUWGYhB1hBM7uHBENqYNZ4LaKKI_LX4514n1KHjIX0/edit?usp=sharing), donde se explica más a fondo el alcance del proyecto.
 
-El código del análisis y el modelo se encuentra en [este cuaderno de Google Colab](../Store_Sales_Avance1.ipynb)
+El código del análisis y el modelo se encuentra en [este cuaderno de Google Colab](./Store_Sales_Avance1)
