@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+KAGGLE COMPETITION DATA ACCESS AND USE STATEMENT
+We have read and agree to the [rules of the Kaggle competition](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/rules).
+We follow the rules because we have only uploaded form one team account and have not 
+used nor shared private code or data to another team. All we have is public to 
+anyone who wants to access to it.
+
+We used this licence since the data and inspiration to the code comes from free public
+acces of [Kaggle](https://www.kaggle.com/) so the use and distribution of it is
+also free and public for everyone.
